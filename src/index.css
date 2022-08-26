@@ -141,3 +141,7 @@
 .bg-transparent {
   background-color: transparent;
 }
+
+.nav-link:hover {
+  color: #5CE1E6;
+}
