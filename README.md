@@ -1,2 +1,2 @@
-This project bootstrapped with Vite.
+This project is bootstrapped with Vite.
 Just open up a terminal and command 'npm run dev' and go to the given local URL.
